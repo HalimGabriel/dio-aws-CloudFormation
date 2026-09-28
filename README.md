@@ -12,12 +12,11 @@ Com ele, é possível automatizar a criação de ambientes completos de forma pa
 
 Durante a realização do laboratório, foram abordados os seguintes conceitos:
 
-- Conceito de Infraestrutura como Código (IaC).
+- O que é o AWS CloudFormation.
 - O que são **Stacks** no AWS CloudFormation.
 - Estrutura de um template CloudFormation.
 - Criação e implantação de uma Stack na AWS.
-- Gerenciamento e atualização de recursos através das Stacks.
-- Exclusão de recursos de forma automatizada.
+- Gerenciamento e atualização de recursos por meio das Stacks.
 
 ## Estrutura de um Template CloudFormation
 
